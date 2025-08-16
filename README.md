@@ -1,10 +1,5 @@
-# 🧠 ML Projects — Arch Technologies Internship
 
-This repository contains two interactive machine learning applications built during the **Arch Technologies Internship**:
-
----
-
-## 📧 Project 1: Email/SMS Spam Classifier
+## 📧 Project : Email/SMS Spam Classifier
 
 > A real-time classifier that detects whether a message is **SPAM** or **NOT SPAM**, using traditional ML techniques.
 
