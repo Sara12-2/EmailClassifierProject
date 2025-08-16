@@ -81,7 +81,4 @@ This project uses deep learning to classify handwritten digits (0–9) from imag
 | (Drawn "5")        | 5 ✅             |
 | (Uploaded "3.png") | 3 ✅             |
 
----
-
-> ✅ **Both projects are deployable and fully interactive**, showcasing skills in both classical ML and deep learning.
 
